@@ -1,0 +1,4 @@
+* Home page art - "NVIM"
+* VimTex
+* Mappings - H, L, esc in t mode
+* Theme - Catppuccin 
